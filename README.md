@@ -15,12 +15,10 @@ Here are some ideas to get you started:-->
 
 
 **Stats** 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/baipachakri/github-readme-stats" style = "margin = 3px; display = grid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baipachakri&show_icons=true&theme=highcontrast" />
 </a>
 <br />
 <br />
-<a href="https://github.com/baipachakri/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=highcontrast" width = "495px" max-widht = "720px" height = "auto"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
