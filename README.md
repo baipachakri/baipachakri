@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 <li>📫 How to reach me on LinkedIn: <a href="https://www.linkedin.com/in/chakri-baipa-950645242/"  >Profile</a></li>
   <li>☕ LeetCode : <A HREF="https://leetcode.com/chakribaipa/"> Profile</A></LI>
   </ul>
-<hr />
 
 
 ## Stats
