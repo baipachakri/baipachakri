@@ -21,5 +21,6 @@ Here are some ideas to get you started:-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+<a href="https://github.com/baipachakri/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=chartreuse-dark" width = "495px" max-widht = "720px" height = "auto"/>
+</a>
