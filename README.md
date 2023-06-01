@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 <ul>
 <li>👀 I’m interested in WEB DEVELOPMENT.</li>
-<li>🌱 I’m currently studying in Undergraduate FORTH Year (started - 2020)</li?
+  <li>🌱 I’m currently studying in Undergraduate FORTH Year (started - 2020)</li>
 <li>💞️ I’m looking to collaborate on  Open-Source</li>
 <li>📫 How to reach me on LinkedIn: <a href="https://www.linkedin.com/in/chakri-baipa-950645242/"  >Profile</a></li>
   </ul>
