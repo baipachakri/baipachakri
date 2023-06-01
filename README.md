@@ -15,7 +15,7 @@ Here are some ideas to get you started:-->
 
 
 **Stats**
-
+<br />
 <a href="https://github.com/baipachakri/github-readme-stats" style = "margin = 3px; display = grid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baipachakri&show_icons=true&theme=dark" />
 </a>
