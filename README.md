@@ -20,5 +20,5 @@ Here are some ideas to get you started:-->
 </a>
 
 <a href="https://github.com/baipachakri/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=midnight-purple" width = "467px" max-widht = "720px" height = "auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=gotham" width = "467px" max-widht = "720px" height = "auto"/>
 </a>
