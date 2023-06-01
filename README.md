@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 <br />
 <br />
 <a href="https://github.com/baipachakri/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=chartreuse-dark" width = "495px" max-widht = "720px" height = "auto"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=synthwave" width = "495px" max-widht = "720px" height = "auto"/>
 </a>
