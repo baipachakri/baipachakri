@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
   <li>🌱 I’m currently studying in Undergraduate FORTH Year (started - 2020)</li>
 <li>💞️ I’m looking to collaborate on  Open-Source</li>
 <li>📫 How to reach me on LinkedIn: <a href="https://www.linkedin.com/in/chakri-baipa-950645242/"  >Profile</a></li>
-  <li>☕ LeetCode <A HREF="https://leetcode.com/chakribaipa/"> Profile</A></LI>
+  <li>☕ LeetCode : <A HREF="https://leetcode.com/chakribaipa/"> Profile</A></LI>
   </ul>
 <hr />
 
