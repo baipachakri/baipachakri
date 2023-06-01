@@ -21,4 +21,4 @@ Here are some ideas to get you started:-->
 </a>
 <br />
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=highcontrast)]
