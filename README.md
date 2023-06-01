@@ -17,8 +17,8 @@ Here are some ideas to get you started:-->
 **Stats**
 <br />
 <a href="https://github.com/baipachakri/github-readme-stats" style = "margin = 3px; display = grid">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baipachakri&show_icons=true&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baipachakri&show_icons=true&theme=codeSTACKr" />
 </a>
 <br >
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
