@@ -19,5 +19,8 @@ Here are some ideas to get you started:-->
 <a href="https://github.com/baipachakri/github-readme-stats" style = "margin = 3px; display = grid">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baipachakri&show_icons=true&theme=chartreuse-dark" />
 </a>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) >
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<hr />
+<a href="https://github.com/baipachakri/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baipachakri&layout=compact&theme=chartreuse-dark" width = "495px" max-widht = "720px" height = "auto"/>
+</a>
